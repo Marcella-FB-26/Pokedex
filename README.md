@@ -76,3 +76,7 @@ E aqui serve para darmos nomes nas tags, para arrumarmos dentro da imagem onde f
 # Link para visualização completa do site vercel
 
 https://vercel.com/marcella-francisco-bezerras-projects/pokedex/FW6pSMVXgKNXqxyKFMYv2rLjBLti
+
+# Link do site criado pelo vercel
+https://pokedex-smoky-eight.vercel.app/
+
