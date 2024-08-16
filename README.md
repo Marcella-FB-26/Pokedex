@@ -72,5 +72,7 @@ E aqui serve para darmos nomes nas tags, para arrumarmos dentro da imagem onde f
       <input type="search" class="input__search" placeholder="Encontrar Pokémon" required>
       </label>
     </form>
-
 ```
+# Link para visualização completa do site vercel
+
+https://vercel.com/marcella-francisco-bezerras-projects/pokedex/FW6pSMVXgKNXqxyKFMYv2rLjBLti
